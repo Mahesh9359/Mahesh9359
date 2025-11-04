@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Mahesh9359/Mahesh9359/blob/main/assets/banner.png" alt="Mahesh Shivaji Jadhav - Software Developer Banner" width="100%" />
+  <img src="./assets/banner.jpg" alt="Mahesh Shivaji Jadhav - Software Developer Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahesh Shivaji Jadhav</h1>
