@@ -24,7 +24,10 @@
 ### 🧑‍💻 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,nodejs,mongodb,bootstrap,git,github,postman,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,bootstrap,git,github,postman,vercel,figma" />
 </p>
 
 ---
