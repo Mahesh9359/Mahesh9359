@@ -15,7 +15,7 @@
 - 🔭 Currently working as a **Frontend Developer Intern at Health First Priority**  
 - 🌱 Learning **Next.js, TypeScript, and scalable application architecture**  
 - 💬 Ask me about **React.js, Next.js, Redux Toolkit, Tailwind CSS, and REST APIs**  
-- 📫 Reach me at **[jadhavmahesh4898@gmail.com](mailto:jadhavmahesh4898@gmail.com)**  
+- 📫 Reach me at **[maheshjadhav9359@gmail.com](mailto:maheshjadhav9359@gmail.com)**  
 - 📍 Pune, Maharashtra, India  
 - ⚡ Fun fact: I love **sports, trekking, and exploring new places**  
 
@@ -40,15 +40,6 @@
 - Collaborated with backend team to integrate REST APIs and secure authentication with NextAuth.  
 - Ensured cross-browser compatibility and optimized performance for healthcare web applications.  
 - Used Git & GitHub for version control and performed debugging with browser developer tools.  
-
----
-
-### 🎓 Education  
-
-- **MCA – Computer Applications**, D. Y. Patil Institute of MCA & Management, Akurdi *(2023 - 2025)* – **7.50 CGPA**  
-- **B.Sc (Computer Science)**, Rajarshi Shahu Mahavidyalaya, Deolali Pravara *(2020 - 2023)* – **8.47 CGPA**  
-- **12th**, R.B.N.B. College, Shrirampur *(2019 - 2020)* – **60%**  
-- **10th**, S.S.K.M.M.V. Pathare Khurd *(2017 - 2018)* – **82.60%**  
 
 ---
 
