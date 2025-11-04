@@ -13,8 +13,7 @@
 
 ### 💫 About Me  
 - 🔭 Currently working as a **Frontend Developer Intern at Health First Priority**  
-- 🌱 Learning **Next.js, TypeScript, and scalable application architecture**  
-- 💬 Ask me about **React.js, Next.js, Redux Toolkit, Tailwind CSS, and REST APIs**  
+- 🌱 Learning **Next.js, TypeScript, and scalable application architecture**   
 - 📫 Reach me at **[maheshjadhav9359@gmail.com](mailto:maheshjadhav9359@gmail.com)**  
 - 📍 Pune, Maharashtra, India  
 - ⚡ Fun fact: I love **sports, trekking, and exploring new places**  
