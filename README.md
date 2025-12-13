@@ -58,8 +58,8 @@ Here are some of my key projects that showcase my development skills and problem
 | 🥗 **[Hunger Cart](https://hungercart.vercel.app/)** | A responsive food ordering web app for browsing menus and placing online orders. Implemented cart management, Google sign-in, and secure authentication. | Next.js · Redux Toolkit · Tailwind CSS · NextAuth · Node.js · MongoDB | [🔗 GitHub](https://github.com/Mahesh9359/FoodPanda) • [🌐 Live Demo](https://hungercart.vercel.app/) |
 | 🧠 **[Quiz Master](https://mcq-quiz-application.vercel.app/)** | A quiz platform with real-time result calculation, ranking, and timer-based quizzes. | Next.js · Express.js · CSS3 · JavaScript | [🔗 GitHub](https://github.com/Mahesh9359/mcq-quiz-application) • [🌐 Live Demo](https://mcq-quiz-application.vercel.app/) |
 | 💻 **[Hacknity](https://hacknity-react-group-project.vercel.app/)** | A community-driven hackathon platform to discover and organize hackathons. Includes dashboards, user profiles, and modern responsive UI. | React.js · Tailwind CSS | [🔗 GitHub](https://github.com/Mahesh9359/hacknity-react-group-project) • [🌐 Live Demo](https://hacknity-react-group-project.vercel.app/) |
-| 🏨 **[Hotel Sunshine](https://hotel-sunshine.vercel.app/)** | Hotel management system for room booking, user registration, and guest management with a responsive interface. | React.js · Node.js · MongoDB · HTML · CSS · JavaScript | [🔗 GitHub](https://github.com/yourusername/hotel-management-system) • [🌐 Live Demo](https://hotel-sunshine.vercel.app/) |
-| 🛒 **[MinuteMart](https://grocery-store-v21k.onrender.com/)** | Online grocery management system with real-time cart updates and dynamic order placement workflow. | PHP · JavaScript · AJAX · SQL | [🔗 GitHub](https://github.com/yourusername/minutemart) • [🌐 Live Demo](https://grocery-store-v21k.onrender.com/) |
+| 🏨 **[Hotel Sunshine](https://hotel-sunshine.vercel.app/)** | Hotel management system for room booking, user registration, and guest management with a responsive interface. | React.js · Node.js · MongoDB · HTML · CSS · JavaScript | [🔗 GitHub](https://github.com/Mahesh9359/hotel-management-system) • [🌐 Live Demo](https://hotel-sunshine.vercel.app/) |
+| 🛒 **[MinuteMart](https://grocery-store-v21k.onrender.com/)** | Online grocery management system with real-time cart updates and dynamic order placement workflow. | PHP · JavaScript · AJAX · SQL | [🔗 GitHub](https://github.com/Mahesh9359/minute-mart) • [🌐 Live Demo](https://minutemart.infinityfreeapp.com/) |
 
 ---
 
@@ -68,7 +68,7 @@ Here are some of my key projects that showcase my development skills and problem
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="mailto:jadhavmahesh4898@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:jadhavmahesh3329@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mahesh-jadhav-2a5bab2ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Mahesh9359"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
